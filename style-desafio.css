@@ -1,0 +1,68 @@
+h1 {
+  font-size: 31px;
+  font-style: normal;
+  color: rgb(13, 228, 24);
+  position: absolute;
+  margin: 70px 300px 250px 450px;
+}
+
+body {
+  margin: 0%;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #0a6668;
+  display: flex;
+}
+main {
+  margin-top: 100px;
+  margin-left: 350px;
+}
+.container {
+  right: 100px;
+  height: 300px;
+  width: 300px;
+  float: left;
+  display: flex;
+  margin: 250px 100px 50px 100px;
+}
+.box1 {
+  right: 100px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  display: flex;
+  margin: 50px 50px 50px 50px;
+}
+#nomePersonagem1 {
+  margin: 50% 0% 100% 0%;
+  text-justify: auto;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(13, 228, 24);
+  font-size: 15px;
+}
+#nomePersonagem2 {
+  margin: 50% 0% 100% 0%;
+  text-justify: auto;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(13, 228, 24);
+  font-size: 15px;
+}
+
+#nomePersonagem3 {
+  margin: 50% 0% 100% 0%;
+  text-justify: auto;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(13, 228, 24);
+  font-size: 15px;
+}
+#nomePersonagem4 {
+  margin: 50% 0% 100% 0%;
+  text-justify: auto;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(13, 228, 24);
+  font-size: 15px;
+}
